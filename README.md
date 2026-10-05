@@ -16,20 +16,20 @@ The long-term goal is to make the complete process, from recording an idea to pu
 
 ## Table of Contents
 
-- [Project Overview
-- #problem-statement
-- [Proposed solution
-- #target-users
-- #core-features
-- [Example User journey
-- [spoken-commands
-- [Platform-Specific-content
-- [Planned System architecture
-- [Proposed Technology Stack](#proposed Structure](#project-structure)
+- Project Overview
+- problem-statement
+- Proposed solution
+- target-users
+- core-features
+- Example User journey
+- spoken-commands
+- Platform-Specific-content
+- Planned System architecture
+- Proposed Technology Stack (#proposed Structure](#project-structure)
 ow
 - [Privacy and Data Retention](#privacy-and-data-retention #development-roadmap
 - #mvp-scope
-- [Features Outside the Initial MVP
+- Features Outside the Initial MVP
 - #local-development
 - #environment-variables
 - #testing-strategy
